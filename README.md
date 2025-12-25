@@ -39,6 +39,7 @@
 ## Self Hosting
 
 - [anyproto/any-sync-dockercompose](https://github.com/anyproto/any-sync-dockercompose) - docker-compose for testing any-sync (official)
+- [grishy/any-sync-bundle](https://github.com/grishy/any-sync-bundle) - All-in-one self-hosting in a single binary, ideal for homelabs
 - [SamBouwer/any-docker](https://github.com/SamBouwer/any-docker) - Dockerized all-in-one instance of an anytype node
 - [clems4ever/anytype-backup-node](https://github.com/clems4ever/anytype-backup-node) - A dockerized self-hosted backup node for anytype
 - [hellodword's lightweight self hosting](https://github.com/hellodword/anytype-all/blob/master/self-hosting.md)
