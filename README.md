@@ -12,6 +12,7 @@
 - [Official Projects](#official-projects)
   - [Clients](#clients)
   - [Documentations](#documentations)
+- [CLI Tools](#cli-tools)
 - [Self Hosting](#self-hosting)
 - [Linux Packages](#linux-packages)
 
@@ -35,6 +36,10 @@
 
 - [anyproto/tech-docs](https://github.com/anyproto/tech-docs) - Tech documentation for Any components
 - [anyproto/docs](https://github.com/anyproto/docs) - The open-source repo for the content behind Anytype Docs
+
+## CLI Tools
+
+- [Antheurus/anywrite](https://github.com/Antheurus/anywrite) - Full-coverage CLI for the local HTTP API (all 52 endpoints of the 2025-11-08 spec), compiled to a single dependency-free binary; also wired as a Claude Code skill for agent-driven use
 
 ## Self Hosting
 
